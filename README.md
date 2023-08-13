@@ -17,8 +17,9 @@
 [![](https://api.moedog.org/room/@WildboarG/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=WildboarG@github:%20&fontSize=12~)](https://api.moedog.org/room/@WildboarG?title=WildboarG%27s%20message%20board)
 
 ### Github活跃度
-![](https://cdn.jsdelivr.net/gh/WildboarG/WildboarG@main/assets/github-contribution-grid-snake.svg)
 [![](https://activity-graph.herokuapp.com/graph?username=wildboarg&theme=dracula)](https://github.com/WildboarG/WildboarG)
 ![WildboarG stats](https://github-readme-stats.vercel.app/api?username=wildboarG&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildboarG)
 
+
+![](https://cdn.jsdelivr.net/gh/WildboarG/WildboarG@main/assets/github-contribution-grid-snake.svg)
